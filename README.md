@@ -3,8 +3,8 @@ Ce projet est fait pour aider les étudiants Openclassroom dans leur compréhens
 
 # Quick start 
 - Forker ce dépot
-- Se déplacer sur la branche "etape1"
+- Se déplacer sur la branche "etape1" : `git checkout etape1`
 - `npm run start`
-- Remplir les //todo dans le code
+- Remplir les instructions dans le HTML puis les //todo dans le code JS
 
 La solution est présente et est sur la branche "solution"
