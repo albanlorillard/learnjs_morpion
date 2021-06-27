@@ -1,0 +1,23 @@
+{
+  "name": "morpion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server ./",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albanlorillard/learnjs_morpion.git"
+  },
+  "author": "Alban Lorillard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albanlorillard/learnjs_morpion/issues"
+  },
+  "homepage": "https://github.com/albanlorillard/learnjs_morpion#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
